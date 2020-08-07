@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <integer-array name="flags">
+        <item>@drawable/br</item>
+        <item>@drawable/us</item>
+        <item>@drawable/fr</item>
+        <item>@drawable/gb</item>
+        <item>@drawable/tr</item>
+        <item>@drawable/ar</item>
+        <item>@drawable/jp</item>
+        <item>@drawable/eg</item>
+        <item>@drawable/no</item>
+        <item>@drawable/de</item>
+    </integer-array>
+</resources>

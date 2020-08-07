@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WhichFuel?</string>
+    <string name="label_gas">Price of a liter of gasoline</string>
+    <string name="label_ethanol">Price of a liter of ethanol</string>
+    <string name="gas">Gas</string>
+    <string name="eth">Ethanol</string>
+    <string name="better_to_use">It\'s better to use</string>
+</resources>

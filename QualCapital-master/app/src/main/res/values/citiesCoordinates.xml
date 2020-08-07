@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities_codes">
+        <item>-15.794229,-47.882166</item>
+        <item>38.907192,-77.036871</item>
+        <item>48.856614,2.352222</item>
+        <item>51.507351,-0.127758</item>
+        <item>39.933364,32.859742</item>
+        <item>-34.603684,-58.381559</item>
+        <item>35.689488,139.691706</item>
+        <item>30.04442,31.235712</item>
+        <item>59.913869,10.752245</item>
+        <item>52.520007,13.404954</item>
+    </string-array>
+</resources>

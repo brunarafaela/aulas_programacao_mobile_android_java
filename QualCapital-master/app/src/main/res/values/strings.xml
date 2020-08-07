@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">QualCapital</string>
+    <string name="title_activity_maps">Qual Capital</string>
+    <string name="label_instructions">Digite o nome de uma capital para ir até lá!!</string>
+    <string name="error_no_city">Erro: Capital não cadastrada.</string>
+    <string name="type_capital">Digite a capital</string>
+    <string name="ok">OK</string>
+</resources>

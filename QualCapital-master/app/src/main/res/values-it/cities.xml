@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="cities">
+        <item>Brasilia</item>
+        <item>Washington DC</item>
+        <item>Parigi</item>
+        <item>Londra</item>
+        <item>Ankara</item>
+        <item>Buenos Aires</item>
+        <item>Tokyo</item>
+        <item>Cairo</item>
+        <item>Oslo</item>
+        <item>Berlino</item>
+    </string-array>
+    <string-array name="countries">
+        <item>Brasile</item>
+        <item>Stati Uniti</item>
+        <item>Francia</item>
+        <item>Inghilterra</item>
+        <item>Turchia</item>
+        <item>Argentina</item>
+        <item>Giappone</item>
+        <item>Egitto</item>
+        <item>Noruega</item>
+        <item>Germania</item>
+    </string-array>
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Qualbustivel?</string>
+    <string name="eth">Etanol</string>
+    <string name="gas">Gasolina</string>
+    <string name="label_ethanol">Preço do litro do etanol</string>
+    <string name="label_gas">Preço do litro da gasolina</string>
+    <string name="better_to_use">É melhor usar</string>
+</resources>

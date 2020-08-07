@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DontPad</string>
+    <string name="type_your_text">タグを入力してください</string>
+    <string name="type_the_tag">テキストを入力</string>
+</resources>
